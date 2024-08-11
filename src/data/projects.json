@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Simple Food Cafe`",
+      "imageSrc": "projects/newcafe.png",
+      "description": "This is a web application designed to offer about different type of food in cafe`.",
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": "https://simplefoodcafe.netlify.app/",
+      "source": "https://github.com/SargamRastogi/SimpleFoodCafe-.git"
+    },
+    {
+      "title":   "Quiz App",
+      "imageSrc": "projects/newquiz.png",
+      "description": "This is a Java based quiz application designed to offer an engaging quiz experience",
+      "skills": ["Swing and AWT"],
+      "demo": "https://github.com/SargamRastogi/QUIZ-APP.git",
+      "source": "https://github.com/SargamRastogi/QUIZ-APP.git"
+    },
+    {
+      "title": "Banking System",
+      "imageSrc": "projects/newbank.png",
+      "description":" Application to provide banking solution to Banks to manage customer accounts",
+      "skills": ["OOPs", "DSA"],
+      "demo": "https://github.com/SargamRastogi/Banking_System_.git",
+      "source": "https://github.com/SargamRastogi/Banking_System_.git"
+    }
+  ]
